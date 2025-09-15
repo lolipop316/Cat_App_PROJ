@@ -1,9 +1,97 @@
 <!DOCTYPE html>
-
 <html lang="en">
-  <head>
-    <title>CatPhotoApp</title>
-  </head>
+<head>
+  <title>CatPhotoApp</title>
+  <meta charset="UTF-8" />
+  <style>
+    /* ---- Base Reset & Font ---- */
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: 'Segoe UI', Tahoma, sans-serif;
+      background: linear-gradient(135deg, #ffe4ec 0%, #d8f3ff 100%);
+      color: #333;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+
+    /* ---- Headings ---- */
+    h1 {
+      text-align: center;
+      color: #e84a5f;
+      margin-bottom: 1rem;
+      font-size: 3rem;
+      text-shadow: 2px 2px #fff;
+    }
+    h2 {
+      color: #333;
+      border-bottom: 2px solid #e84a5f;
+      margin-bottom: .5rem;
+      padding-bottom: .25rem;
+    }
+
+    /* ---- Sections ---- */
+    section {
+      background: #ffffffcc;
+      border-radius: 1rem;
+      padding: 1.5rem;
+      margin: 1.5rem auto;
+      max-width: 700px;
+      box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+    }
+
+    /* ---- Links ---- */
+    a {
+      color: #e84a5f;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+
+    /* ---- Images ---- */
+    img {
+      max-width: 100%;
+      border-radius: .75rem;
+      margin-top: .5rem;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    }
+
+    /* ---- Lists ---- */
+    ul, ol {
+      margin: .75rem 0 .75rem 1.5rem;
+    }
+
+    /* ---- Form ---- */
+    fieldset {
+      border: 2px solid #e84a5f;
+      border-radius: .75rem;
+      padding: 1rem;
+      margin-bottom: 1rem;
+    }
+    legend {
+      padding: 0 .5rem;
+      font-weight: bold;
+      color: #e84a5f;
+    }
+   button {
+  background: #e84a5f;
+  color: #fff;
+  border: none;
+  padding: .6rem 1.2rem;
+  font-size: 1rem;
+  border-radius: .5rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+button:hover {
+  background: #c7374a;
+}
+      </style>
+   </head>
   <body>
     <main>
       <h1>CatPhotoApp</h1>
