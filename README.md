@@ -9,3 +9,4 @@ My first HTML project for my diploma prep.
 This is my first practice project following FreeCodeCamp’s Responsive Web Design course.
 It uses:
 - Semantic HTML
+- Added CSS styling so it doesnt look like it was made in the 1990s 🤐
