@@ -1,9 +1,11 @@
-Cat App 😼
-First HTML project for my diploma prep.
+# Cat App 😼
 
-Live Demo: View on GitHub Pages
-About
-This is another practice project following FreeCodeCamp’s Responsive Web Design course. It uses:
+My first HTML project for my diploma prep.
 
-Semantic HTML
-CSS styling
+**Live Demo:** [View on GitHub Pages](https://lolipop316.github.io/FCC-cat-app)
+---
+
+## About
+This is my first practice project following FreeCodeCamp’s Responsive Web Design course.
+It uses:
+- Semantic HTML
