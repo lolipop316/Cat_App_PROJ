@@ -1,4 +1,4 @@
-# 😼
+# 😼 Cat App
 
 First HTML project for my diploma prep.
 
