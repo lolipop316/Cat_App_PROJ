@@ -6,7 +6,5 @@ First HTML project for my diploma prep.
 ---
 
 
-This is my first practice project following FreeCodeCamp’s Responsive Web Design course.
-It uses:
-- Semantic HTML
+This is my first practice project following FreeCodeCamp’s Responsive Web Design course using simple html
 
